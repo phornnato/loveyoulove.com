@@ -1,0 +1,36 @@
+body{
+    background-image: url("hello5.gif");
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    display: flow-root;
+}
+
+#demo{
+    font-size: 50px;
+    font-family:fantasy;
+    font-weight: bolder;
+    text-shadow: 1px 3px 1px black;
+    margin-left: 400px ;
+    color: palevioletred;
+    display: flow-root;
+}
+#pic{
+    border-radius: 100px;
+    margin-left:160px ;
+    width: 350px;
+    display: flow-root;
+}
+#but{
+    
+    box-shadow: 1px 3px 1px black;
+    background-color: aqua;
+    margin-left: 300px;
+    border: ridge rgb(19, 209, 57);
+    border-radius: 2em;
+    width: 100px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: 17px;
+    font-weight: bold;
+   
+}
